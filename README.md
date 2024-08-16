@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi there! I'm Zahid Ahmad, a passionate Machine Learning Engineer with a Bachelor's degree in Artificial Intelligence from Islamia University of Bahawalpur, Pakistan. I specialize in building robust machine learning models, developing APIs, and implementing cutting-edge techniques for various applications. My experience spans both professional work at Kins247 Islamabad and freelance projects on platforms like Fiverr.
+Hi there! I'm Zahid Ahmad, a passionate Machine Learning Engineer with a Bachelor's degree in Artificial Intelligence from Islamia University of Bahawalpur, Pakistan. I specialize in building robust machine learning models, developing APIs, and implementing cutting-edge techniques for various applications. My experience spans both professional work and freelance projects on platforms like Fiverr.
 
 ## Skills
 
@@ -31,7 +31,7 @@ Check out more of my projects on my [GitHub](https://github.com/zahid-ahmad).
 
 ## Work Experience
 
-**Machine Learning Engineer | Kins247 Islamabad**  
+** Jr. Machine Learning Engineer | Kins247 Islamabad**  
 _March 2024 – Present_  
 - Developed APIs for LLM integration.
 - Fine-tuned LLMs for specific applications.
