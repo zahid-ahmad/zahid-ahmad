@@ -31,7 +31,7 @@ Check out more of my projects on my [GitHub](https://github.com/zahid-ahmad).
 
 ## Work Experience
 
-** Jr. Machine Learning Engineer | Kins247 Islamabad**  
+**Jr. Machine Learning Engineer | Kins247 Islamabad**  
 _March 2024 – Present_  
 - Developed APIs for LLM integration.
 - Fine-tuned LLMs for specific applications.
