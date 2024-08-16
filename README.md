@@ -9,7 +9,7 @@ Hi there! I'm Zahid Ahmad, a passionate Machine Learning Engineer with a Bachelo
 ## Skills
 
 - **Programming Languages:** Python, C++
-- **Libraries & Frameworks:** TensorFlow, Keras, PyTorch, OpenCV, Langchain, Pandas, NumPy, Scikit Learn, NLTK, Flask, Matplotlib, Seaborn, HuggingFace, Streamlit, AWS Sagemaker, Azure
+- **Libraries & Frameworks:** TensorFlow, Keras, PyTorch, OpenCV, Langchain, Pandas, NumPy, Scikit Learn, NLTK, Flask, Matplotlib, Seaborn, HuggingFace, Streamlit, AWS Sagemaker, Azure, Ollama
 - **Machine Learning & Deep Learning:** Computer Vision (CV), Natural Language Processing (NLP), Predictive Modeling
 - **Software Skills:** Git, GitHub, MS Excel, Jupyter Notebook, Google Colab, Visual Studio Code, Linux Servers
 
